@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162725494794",
+    "firebase_url": "https://takhdimprovider.firebaseio.com",
+    "project_id": "takhdimprovider",
+    "storage_bucket": "takhdimprovider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162725494794:android:6c27629af40804a0",
+        "android_client_info": {
+          "package_name": "com.techno.takhdimprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162725494794-k45vh4h7cm3u4tiplqk1kpraf7gqcvrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techno.takhdimprovider",
+            "certificate_hash": "8bc0be3bcc3e671e098e4f9fc51b7de5999e5c7f"
+          }
+        },
+        {
+          "client_id": "162725494794-ags1vkgb8l718erbac8l7b3kdsj468gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRSwpE6kHX41MnkiuMFvOadoj00590pfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162725494794-ags1vkgb8l718erbac8l7b3kdsj468gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
